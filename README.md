@@ -11,6 +11,10 @@ Email Me 👉 ✉️ **sumitchongder960@gmail.com** for collaboration, project i
 
 <div align="center">
 
+  <img height="45em"
+       src="https://komarev.com/ghpvc/?username=Sumitchongder&style=for-the-badge"/>
+
+  
 <!--<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumitchongder&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitchongder&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitchongder&theme=radical">
