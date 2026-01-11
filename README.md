@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **sumitchongder960@gmail.com** for collaboration, project i
 
 <div align="center">
 
-  <img height="45em"
+  <img height="35em"
        src="https://komarev.com/ghpvc/?username=Sumitchongder&style=for-the-badge"/>
 
   
