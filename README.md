@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sumit Chongder
-**A passionate Quantum Researcher || AI/ML Engineer || Cloud Engineer || Network Security Engineer from India**
+**A passionate Quantum Researcher (IIT Jodhpur) || AI/ML Engineer || Cloud Engineer || Network Security Engineer from India**
 
 Email Me 👉 ✉️ **sumitchongder960@gmail.com** for collaboration, project inquiries, or Anything Else. 😊😊
 
